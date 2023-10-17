@@ -1,0 +1,64 @@
+.bg{
+    background-color: darkslateblue;
+}
+.bg-nav-y{
+color:yellow;
+}
+.my-caption{
+    top:80px;
+    
+}
+
+
+.banner-caption {
+    height: 350px;
+    margin-top: 40px;
+
+}
+.banner-caption-title
+{
+    color:white;
+}
+.banner-caption-title-one
+{
+    color: yellow;
+}
+
+.btn-color
+{
+    color:white;
+}
+.left{
+    margin-top: 20px;
+}
+
+.welcome-sec{
+    background-image: url("../img/about_bg.png");
+    height: 350px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 20px;
+}
+.img{
+    position: center;
+    margin-left: 70px;
+    height: 300px;
+    width: 300px;
+    top: 10px;
+    vertical-align: middle;
+}
+
+
+
+.man-img{
+    position: absolute;
+    top: -62px;
+    left: 82px;
+
+}
+.choose-us{
+
+}
+
+
